@@ -1,4 +1,5 @@
-### ZCW.DataGroupProject
+# Final_group_ project
+This is a project between 3- Zip Code Wilmington students, that have explored both static and streaming data to find out what are the relevant factors that are driving the Philadelphia City housing market.We will collect some historical data from Open Databsae of Philly, including real estate, publica school, hospital, crime rate, park and recreation facilities, and so on. Also, we will update some daily housing information in the Philly area, to allow us to have a parallel view of the price prediction study.<br>
 
 ![description_if_image_fails_to_load](https://github.com/nortonlyr/ZCW.DataGroupProject/blob/master/DataGroupProject.jpg)
 
@@ -22,5 +23,20 @@ What are the factors that currently driving housing prices in Philadelphia?
 | [TRANSFORMATION](https://github.com/nortonlyr/ZCW.DataGroupProject/blob/master/plugins/trasnformation_README.md)|
 | [VISUALIZATION](https://github.com/nortonlyr/ZCW.DataGroupProject/blob/master/plugins/visualizations_README.md)|
 | [MACHINE LEARNING](https://github.com/nortonlyr/ZCW.DataGroupProject/blob/master/plugins/machine_learning_README.md)|
+
+
+# Our team 
+![](/images/chris2.jpg.png) __Chris Chavez__, U.S.Army Veteran/polygot/Entrepreneur....    .. ..<br>
+[__Git profile <-__]()<br>
+[__linkden profile <-__]()<br>
+
+![](/images/maleda.jpg.png)__Maleda Tessema__, Former international flight attendant for 7 years (Ethiopian Airlines) Sr. Flight Attendant and Team Leader. Self driven, Devoted and open minded person; currently in training as a Data Engineer at ZCW.<br>
+[__Git profile <-__](https://malbt.github.io/Maleda_Portfolio/)<br>
+[__linkden profile <-__](https://www.linkedin.com/in/maleda-tessema/)<br>
+
+![](/images/norton.jpg.png) __YueRu Li__, An aspiring data enginner/data analyst.....and
+<br>
+[__Git profile <-__]()<br>
+[__linkden profile <-__]()<br>
 
 
