@@ -34,7 +34,7 @@ What are the factors that currently driving housing prices in Philadelphia?
 [__Git profile <-__](https://malbt.github.io/Maleda_Portfolio/)<br>
 [__linkden profile <-__](https://www.linkedin.com/in/maleda-tessema/)<br>
 
-![](/images/norton.jpg.png) __YueRu Li__, An aspiring data enginner/data analyst.....and
+![](/images/norton.jpg.png) __YueRu Li__, A resourceful, adaptable Data Engineer/Data Analyst with professional experience as a research scientist highly skilled in handling real-world datasets, performing data cleaning and visualization, and solving complex theoretical and experiential problems.
 <br>
 [__Git profile <-__]()<br>
 [__linkden profile <-__]()<br>
