@@ -25,9 +25,7 @@ What are the factors that currently driving housing prices in Philadelphia?
 | [MACHINE LEARNING](https://github.com/nortonlyr/ZCW.DataGroupProject/blob/master/plugins/machine_learning_README.md)|
 
 
-# [__Click Here For Project Report__](https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
-
-
+# [__Click Here For Project Report__](https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)<br>
 
 
 
