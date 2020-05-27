@@ -9,7 +9,7 @@ NON-TRADITIONAL HOUSING PRICE PREDICTOR
 This repo contains the code for a collaborative project between 3- Zip Code Wilmington students, using both static and API data to answer two questions: 
 
 1. What are the relevant factors that are driving the Philadelphia City housing market? 
-2. Can those factors be used to handpick sound real estate investments?
+2. Can those factors be used to handpick reliable real estate investments in Philadelphia?
 
 THE QUESTION: 
 -------------------
@@ -34,7 +34,8 @@ What are the factors that currently driving housing prices in Philadelphia?
 [__Git profile <-__](https://zu1ude1ta.github.io/Chris_Chavez_Portfolio/)<br>
 [__Linkedin profile <-__](https://www.linkedin.com/in/chrischavez1/)<br>
 
-![](/images/maleda.jpg.png)__Maleda Tessema__, Former international flight attendant for 7 years (Ethiopian Airlines) Sr. Flight Attendant and Team Leader. Self driven, Devoted and open minded person; currently in training as a Data Engineer at ZCW.<br>
+![](/images/maleda.jpg.png)__Maleda Tessema__, A former international flight attendant for 7 years (Ethiopian Airlines); Sr. Flight Attendant and Team Leader. Has an eye for detail, eager to learn new things with a can-do attitude, and the ability to adapt quickly to a new environment. Currently in training as a Data Engineer at Zip Code Wilmington.<br>
+
 [__Git profile <-__](https://malbt.github.io/Maleda_Portfolio/)<br>
 [__Linkedin profile <-__](https://www.linkedin.com/in/maleda-tessema/)<br>
 
