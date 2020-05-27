@@ -25,6 +25,8 @@ What are the factors that currently driving housing prices in Philadelphia?
 | [MACHINE LEARNING](https://github.com/nortonlyr/ZCW.DataGroupProject/blob/master/plugins/machine_learning_README.md)|
 
 # [__Report__](https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
+
+
 # Our team 
 ![](/images/chris2.jpg.png) __Chris Chavez__, Data Engineer and Military Veteran bringing 20 yrs of experience thriving in fast paced environments and working on teams that gleaned industry best practices; molded organizational strategic planning; produced results from vast amounts of data in a timely manner.<br>
 [__Git profile <-__](https://zu1ude1ta.github.io/Chris_Chavez_Portfolio/)<br>
