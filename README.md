@@ -36,7 +36,7 @@ What are the factors that currently driving housing prices in Philadelphia?
 
 ![](/images/norton.jpg.png) __YueRu Li__, A resourceful, adaptable Data Engineer/Data Analyst with professional experience as a research scientist highly skilled in handling real-world datasets, performing data cleaning and visualization, and solving complex theoretical and experiential problems.
 <br>
-[__Git profile <-__]()<br>
-[__linkden profile <-__]()<br>
+[__Git profile <-__](https://github.com/nortonlyr)<br>
+[__linkden profile <-__](https://www.linkedin.com/in/yueru-li/)<br>
 
 
