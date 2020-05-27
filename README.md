@@ -28,7 +28,7 @@ What are the factors that currently driving housing prices in Philadelphia?
 # Our team 
 ![](/images/chris2.jpg.png) __Chris Chavez__, Data Engineer and Military Veteran bringing 20 yrs of experience thriving in fast paced environments and working on teams that gleaned industry best practices; molded organizational strategic planning; produced results from vast amounts of data in a timely manner.<br>
 [__Git profile <-__](https://zu1ude1ta.github.io/Chris_Chavez_Portfolio/)<br>
-[__linkden profile <-__]()<br>
+[__linkden profile <-__](https://www.linkedin.com/in/chrischavez1/)<br>
 
 ![](/images/maleda.jpg.png)__Maleda Tessema__, Former international flight attendant for 7 years (Ethiopian Airlines) Sr. Flight Attendant and Team Leader. Self driven, Devoted and open minded person; currently in training as a Data Engineer at ZCW.<br>
 [__Git profile <-__](https://malbt.github.io/Maleda_Portfolio/)<br>
