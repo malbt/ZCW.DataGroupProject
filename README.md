@@ -1,5 +1,5 @@
-# Final_group_ project
-This is a project between 3- Zip Code Wilmington students, that have explored API data to find out what are the relevant factors that are driving the Philadelphia City housing market.We will collect some historical data from Open Databsae of Philly, including real estate, publica school, hospital, crime rate, park and recreation facilities, and so on. Also, we will update some daily housing information in the Philly area, to allow us to have a parallel view of the price prediction study.<br>
+# Final Group Project
+This is a project between 3- Zip Code Wilmington students, that have explored API data to find out what are the relevant factors that are driving the Philadelphia City housing market.We will collect some historical data from Open Databsae of Philly, including real estate, public school, hospital, crime rate, park and recreation facilities, and so on. Also, we will update some daily housing information in the Philly area, to allow us to have a parallel view of the price prediction study.<br>
 
 ![](/images/flowimage.jpg)
 
@@ -32,15 +32,15 @@ What are the factors that currently driving housing prices in Philadelphia?
 # Our team 
 ![](/images/chris2.jpg.png) __Chris Chavez__, Data Engineer and Military Veteran bringing 20 yrs of experience thriving in fast paced environments and working on teams that gleaned industry best practices; molded organizational strategic planning; produced results from vast amounts of data in a timely manner.<br>
 [__Git profile <-__](https://zu1ude1ta.github.io/Chris_Chavez_Portfolio/)<br>
-[__linkden profile <-__](https://www.linkedin.com/in/chrischavez1/)<br>
+[__Linkedin profile <-__](https://www.linkedin.com/in/chrischavez1/)<br>
 
 ![](/images/maleda.jpg.png)__Maleda Tessema__, Former international flight attendant for 7 years (Ethiopian Airlines) Sr. Flight Attendant and Team Leader. Self driven, Devoted and open minded person; currently in training as a Data Engineer at ZCW.<br>
 [__Git profile <-__](https://malbt.github.io/Maleda_Portfolio/)<br>
-[__linkden profile <-__](https://www.linkedin.com/in/maleda-tessema/)<br>
+[__Linkedin profile <-__](https://www.linkedin.com/in/maleda-tessema/)<br>
 
 ![](/images/norton.jpg.png) __YueRu Li__, A resourceful, adaptable Data Engineer/Data Analyst with professional experience as a research scientist highly skilled in handling real-world datasets, performing data cleaning and visualization, and solving complex theoretical and experiential problems.
 <br>
 [__Git profile <-__](https://github.com/nortonlyr)<br>
-[__linkden profile <-__](https://www.linkedin.com/in/yueru-li/)<br>
+[__Linkedin profile <-__](https://www.linkedin.com/in/yueru-li/)<br>
 
 
